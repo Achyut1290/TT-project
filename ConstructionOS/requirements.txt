@@ -3,3 +3,4 @@ mysql-connector-python==8.4.0
 Flask-Login==0.6.3
 Werkzeug==3.0.3
 pandas==2.2.2
+gunicorn
